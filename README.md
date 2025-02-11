@@ -2,7 +2,7 @@
 
 ## Urratsak:
 
-1. Saio berri bat ireki zure github.com kontuan, edo sortu kontu berri bat. 
+1. Saio berri bat ireki zure [https://github.com/](https://github.com/) kontuan, edo sortu kontu berri bat. 
 
 2. Erabili zure edozein biltegi (repository), edo sortu biltegi berri bat.
 
@@ -26,9 +26,19 @@
 docker run --name easyatp -p 3000:3000 -d javieralvez/easyatp:2024
 ```
 
-5. Bukatzeko, lan egin eta gero, terminal lehioan exekutatu hurrengo komandoa:
+    ![4. Execute Docker Run Command](/images/DockerRunCommand.png "4. Execute Docker Run Command")
 
-```bash
-docker stop easyatp
-```
+5. Ireki EasyATP fitxa berri batean "Open in Browser" botoia sakatuz:
+
+   ![5. Open in browser](/images/DockerRunCommand.png "5. Open in browser")
+
+6. EasyATP tresnarekin lan egin:
+
+   ![6. Ready to work](/images/DockerRunCommand.png "6. Ready to work")
+
+7. Bukatzeko, lan egin eta gero, gelditu codespace. Azken hau oso garrantzitsua da, hilabetero 2000 minutu bakarrik dituzuelako [GitHub](https://github.com/)-en (dohainik, jakina). Geldituko ez bazenute, pare bat egunetan agortuko zenituzke: 
+
+   ![7a. Go to Codespaces](/images/GoToCodespaces.png "7a. Go to Codespaces")
+   
+   ![7b. Stop codespace](/images/StopCodespace.png "7b. Stop codespace")
 
