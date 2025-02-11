@@ -46,7 +46,7 @@ Adibidez:
 8. Zure codespace berriro erabiltzeko, Codespace atalean zure codespace-eko izenean klikatu eta automatikoki martxan jarriko da. Lehen bezala, terminal leihoan hurrengo komando exekutatu:
 ```bash
 docker run --name easyatp -p 3000:3000 -d javieralvez/easyatp:2024
-```
+``` # End bash
 
     ![8a. Start codespace](/images/StartCodespace.png "8a. Start codespace")
 
@@ -55,7 +55,7 @@ docker run --name easyatp -p 3000:3000 -d javieralvez/easyatp:2024
 9. Errore bat agertzen bazaizu, saia zaitez biltegia ezabatzen hurrengo komandoa erabiliz:
 ```bash
 docker container rm "biltegi-gakoa"
-```
+``` # End bash
 
     non "biltegi-gakoa" errore-mezuan agertzen zaizu. Ondoren, "run" komandoa berriro exekutatu eta martxan jarriko da EasyATP:
 
