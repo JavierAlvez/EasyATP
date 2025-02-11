@@ -6,19 +6,19 @@ Urratsak:
 
 2. Erabili zure edozein biltegi (repository), edo sortu biltegi berri bat.
 
-    2a. ![Create a new repository](https://github.com/JavierAlvez/EasyATP/tree/main/images/CreateNewRepository.png "2a. Create a new repository")
+    2a. ![Create a new repository](https://github.com/JavierAlvez/EasyATP/images/CreateNewRepository.png "2a. Create a new repository")
     
-    2b. ![Set new repository name](https://github.com/JavierAlvez/EasyATP/tree/main/images/CreateNewRepositorySetName.png "2b. Set new repository name")
+    2b. ![Set new repository name](https://github.com/JavierAlvez/EasyATP/images/CreateNewRepositorySetName.png "2b. Set new repository name")
     
-    2c. ![Save new repository](https://github.com/JavierAlvez/EasyATP/tree/main/images/CreateNewRepositorySaveButton.png "2c. Save new repository")
+    2c. ![Save new repository](https://github.com/JavierAlvez/EasyATP/tree/CreateNewRepositorySaveButton.png "2c. Save new repository")
 
 3. Sortu codespace berri bat. Zure biltegia hutsa bada (berria), JavierAlvez/EasyATP biltegia (honako hau) klonatu ahal duzu:
 
-    3a. ![Create a new codespace](https://github.com/JavierAlvez/EasyATP/tree/main/images/CreateNewCodespace.png "3a. Create a new codespace")
+    3a. ![Create a new codespace](https://github.com/JavierAlvez/EasyATP/images/CreateNewCodespace.png "3a. Create a new codespace")
     
-    3b. ![Select a non-empty repository](https://github.com/JavierAlvez/EasyATP/tree/main/images/CreateNewCodespaceSelectRepository.png "3b. Select a non-empty repository")
+    3b. ![Select a non-empty repository](https://github.com/JavierAlvez/EasyATP/images/CreateNewCodespaceSelectRepository.png "3b. Select a non-empty repository")
     
-    3c. ![Save new repository](https://github.com/JavierAlvez/EasyATP/tree/main/images/CreateNewCodespaceCreateButton.png "3c. Save new repository")
+    3c. ![Save new repository](https://github.com/JavierAlvez/EasyATP/images/CreateNewCodespaceCreateButton.png "3c. Save new repository")
 
 4. Terminal lehioan exekutatu hurrengo komandoa:
 
