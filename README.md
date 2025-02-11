@@ -62,7 +62,7 @@
 
     ![9a. Delete Docker Container](/images/DeleteDockerContainer.png "9a. Delete Docker Container")
 
-    ![9b. Re-exekute Docker Run Command Again](/images/DockerRunCommandOnceAgian.png "9b. Re-exekute Docker Run Command Again")
+    ![9b. Re-exekute Docker Run Command Again](/images/DockerRunCommandOnceAgain.png "9b. Re-exekute Docker Run Command Again")
 
 
 
