@@ -25,6 +25,8 @@
 docker run --name easyatp -p 3000:3000 -d javieralvez/easyatp:2024
 ```
 
+  \
+
     ![4. Execute Docker Run Command](/images/DockerRunCommand.png "4. Execute Docker Run Command")
 
 5. Ireki EasyATP fitxa berri batean "Open in Browser" botoia sakatuz:
