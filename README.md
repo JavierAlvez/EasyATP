@@ -6,9 +6,9 @@
 
 2. Erabili zure edozein biltegi (repository), edo sortu biltegi berri bat.
 
-    2a. ![Create a new repository](/assets/images/CreateNewCodespace.png)
+    2a. ![Create a new repository aaa](/assets/images/CreateNewCodespace.png)
     
-    2b. ![Set new repository name](/assets/main/images/CreateNewRepositorySetName.png)
+    2b. ![Set new repository name](/assets/images/CreateNewRepositorySetName.png)
     
     2c. ![Save new repository](/assets/images/CreateNewRepositorySaveButton.png)
 
