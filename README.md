@@ -50,7 +50,7 @@
 
     ![8a. Start codespace](/images/StartCodespace.png "8a. Start codespace")
 
-    ![8b. Re-exekute Docker Run Command](/images/DockerRunCommandAgian.png "8b. Re-exekute Docker Run Command")
+    ![8b. Re-exekute Docker Run Command](/images/DockerRunCommandAgain.png "8b. Re-exekute Docker Run Command")
 
 9. Errore bat agertzen bazaizu, saia zaitez biltegia ezabatzen hurrengo komandoa erabiliz:
 
