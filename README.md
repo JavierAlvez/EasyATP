@@ -20,14 +20,12 @@
     
     ![3c. Save new repository](/images/CreateNewCodespaceCreateButton.png "3c. Save new repository")
 
-4. Terminal lehioan hurrengo komandoa exekutatu :
+4. Terminal lehioan hurrengo komandoa exekutatu:
 ```shell
 docker run --name easyatp -p 3000:3000 -d javieralvez/easyatp:2024
 ```
 
 Adibidez:
-
-    ![3c. Save new repository](/images/CreateNewCodespaceCreateButton.png "3c. Save new repository")
 
     ![4. Execute Docker Run Command](/images/DockerRunCommand.png "4. Execute Docker Run Command")
 
@@ -54,7 +52,7 @@ docker run --name easyatp -p 3000:3000 -d javieralvez/easyatp:2024
 
     ![8b. Re-exekute Docker Run Command](/images/DockerRunCommandAgian.png "8b. Re-exekute Docker Run Command")
 
-9. Errore bat agertzen bazaizu, saia zaitez biltegia ezabatzen hurrengo komandoa erabiliz
+9. Errore bat agertzen bazaizu, saia zaitez biltegia ezabatzen hurrengo komandoa erabiliz:
 ```bash
 docker container rm "biltegi-gakoa"
 ```
